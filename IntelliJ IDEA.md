@@ -165,3 +165,9 @@ IntelliJ IDEA 2022.1.1
 取消勾选 不要进入类
 
 ![image-20221016162605143](IntelliJ IDEA.assets/image-20221016162605143.png)
+
+## 设置代理
+
+文件 → 设置 → 外观与行为 → HTTP 代理 → 勾选 `自动检测代理设置`
+
+![image-20221213141312399](IntelliJ IDEA.assets/image-20221213141312399.png)
